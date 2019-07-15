@@ -380,7 +380,10 @@ input[type=submit]:hover {
 
     .services-header {
         margin-top: 500px; 
-        font-size: 1.5em;
+    }
+
+    .services-header-text {
+        font-size: 2em; 
     }
     .services-info {
         flex-direction: column;
